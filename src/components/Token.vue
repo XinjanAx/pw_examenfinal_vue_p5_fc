@@ -17,7 +17,7 @@ export default {
   data() {
     return {
       semilla: "",
-      token: "$2a$12$ihucMbKnidVQ0MGT04xzWOh8T4Q7XmecwETuVthT2i0xFo/PPpnSW",
+      token: "",
       tiempo: 0,
     };
   },
